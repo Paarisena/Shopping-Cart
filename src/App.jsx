@@ -258,7 +258,7 @@ function Herosection() {
           <img
             src="/cart.jpg" 
             className="d-block mx-lg-auto img-fluid" 
-            alt="Multiple People Shopping Illustration" 
+            alt="Shopping site" 
             width="700" 
             height="500" 
             loading="lazy" 
